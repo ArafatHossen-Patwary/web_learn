@@ -1,0 +1,37 @@
+h1{
+    color: blueviolet;
+}
+
+/* class define */
+.colorBlue{
+   color: blue;
+}
+
+.colorRed{
+    color:red ;
+    text-align:center;
+}
+/* id selector */
+#green1{
+    color: green;
+    text-align:center;
+    font-size: medium;
+}
+/* Group selector */
+h4,h5{
+    color: aqua;
+}
+/* universal selector */
+/* *{
+    background-color: darkturquoise;
+} */
+
+/* Background */
+.bgBoxe{
+    height: 1000px;;
+    /* width:1000px ; */
+    background-color: blue;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+}

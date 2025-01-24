@@ -35,3 +35,66 @@ h4,h5{
     background-position: center top;
     background-repeat: no-repeat;
 }
+
+/* Border */
+
+.box1{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(38, 124, 230);
+    border-width: 5px;
+    border-color: rgb(241, 198, 111);
+    border-style:solid;
+ /* for creating border 50% make the shape circle */
+    border-radius:  50%;
+    
+}
+
+.box2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(107, 239, 138);
+    /* background: 5px solid rgb(243, 102, 102) ; */
+
+    border-width: 5px;
+    border-color: rgb(234, 62, 5);
+    border-style:solid;
+
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+.box3{
+    height: 150px;
+    width: 150px;
+    background-color: rgba(144, 73, 231, 0.708);
+}
+/* cursor property */
+.cursor{
+    cursor:copy;
+}
+
+/* CSS Display property */
+.bg-green{
+
+    background-color: rgb(148, 67, 67);
+    font-size: 20px;
+}
+.displayInline{
+  display: inline;
+}
+
+.displayNone{
+    display: none;
+}
+
+.displayBlock{
+    display: block;
+}
+/* float property means how a bow move around side to side*/
+.box4{
+    height: 150px;
+    width: 150px;
+    background-color: rgba(122, 88, 164, 0.708);
+    float: right;
+}

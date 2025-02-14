@@ -1,0 +1,17 @@
+#hero{
+
+    background:url("https://png.pngtree.com/thumb_back/fh260/background/20230415/pngtree-website-technology-line-dark-background-image_2344719.jpg")no-repeat;
+    height: 1300px;
+    width: 1300px;
+    background-size:cover;
+    background-position: center left;
+}
+
+.profile{
+    height: 150px;
+    width: 150px;
+}
+
+#skills{
+    background-color: rgb(198, 196, 200);
+}
